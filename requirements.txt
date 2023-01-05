@@ -1,0 +1,7 @@
+scipy
+numpy
+matplotlib
+pandas
+sklearn
+seaborn
+imblearn==0.0
